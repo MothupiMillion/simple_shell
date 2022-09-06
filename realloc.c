@@ -1,4 +1,4 @@
-#include "shell.h"
+#clude "shell.h"
 /**
 *_memset - fills memory with a constant byte
 *@s: the pointer to the memory area
