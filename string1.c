@@ -1,4 +1,4 @@
-#include "shell.h"
+#clude "shell.h"
 /**
 * _strcpy - copies a string
 * @dest: the destination
