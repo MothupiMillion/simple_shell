@@ -1,4 +1,4 @@
-#include "shell.h"
+#clude "shell.h"
 /**
 * main - entry point
 * @ac: arg count
